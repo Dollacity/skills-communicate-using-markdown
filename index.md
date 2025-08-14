@@ -3,6 +3,11 @@
 ```javascript
 var birthMonth = "June";
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+      
 I added a header to the index.md file. 
+
 
 
